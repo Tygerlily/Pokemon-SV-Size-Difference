@@ -1,7 +1,7 @@
 # Pokemon-SV-Size-Difference
 Tracking and collecting data on the size differences between pokemon but specifically to hatch toxel eggs for an XXXS low key(lowkey?) toxtricity. To check the size you have to go to the left side center circle of the school town, or the fly to left/west pokecenter and go around the pokecenter then straight.
 
-Link to google sheets : https://docs.google.com/spreadsheets/d/e/2PACX-1vR4dhReuTZRQDeHmOZyUrpkfACelSsBiZHoRYC1BA3D5VyJjU_wF9nancQT60P8iCZobAFHQSP0PWFT/pubhtml 
+Link to copy google sheets : (https://docs.google.com/spreadsheets/d/1K_IW62dln1dFCAEdW6lX6g0YAepImnLKmgVn2DKPKXg/edit?usp=sharing) 
 
 
 This is data on the size differeneces/variation in Pokémon Scarlet and Violet, theres no difference in the size guide for different versions so I'm assuming that it's the same for all.
