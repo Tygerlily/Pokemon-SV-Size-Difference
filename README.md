@@ -1,4 +1,4 @@
-# Pokemon-SV-Size-Difference
+# Pokemon-SV-Toxtricity-Size-Difference
 Tracking and collecting data on the size differences between pokemon but specifically to hatch toxel eggs for an XXXS low key(lowkey?) toxtricity. To check the size you have to go to the left side center circle of the school town, or the fly to left/west pokecenter and go around the pokecenter then straight.
 
 Link to copy google sheets : (https://docs.google.com/spreadsheets/d/1K_IW62dln1dFCAEdW6lX6g0YAepImnLKmgVn2DKPKXg/edit?usp=sharing) 
